@@ -27,7 +27,7 @@ tagline: learning CollectionBuilder at DLF2023
 # this description might appear in search result lists, keep around 160 characters max
 description: "Test DLF Site with demo data for learning"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Larry Eames
 
 ##########
 # COLLECTION SETTINGS
